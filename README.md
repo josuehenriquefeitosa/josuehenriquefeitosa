@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Josué Feitosa1 👋
 
 - 🔭 I’m currently do not working with Front-End,but very want  poder trabalhar na área um dia. 
-- 🌱 I’m currently learning Typescript, Node.js, Javascript, HTML e CSS.
+- 🌱 I’m currently learning React, Typescript, Node.js, Javascript, HTML e CSS.
 - 👨‍🎓 I’m currently studying systems analysis and development at the Federal Institute of Sergipe.
 - 😄 Pronouns: He/His
 -->
