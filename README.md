@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=a6b1e1&height=150&section=header&text=Josu%C3%A9%20Feitosa&fontSize=50&fontColor=283655&animation=fadeIn&desc=Desenvolvedor%20Web&descAlign=center&descSize=20&descAlignY=70&descColor=fff&v=2" alt="Banner de boas-vindas Lofi" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&text=Josu%C3%A9%20Feitosa&fontSize=50&fontColor=283655&desc=Desenvolvedor%20Web&descSize=20&descColor=fff&animation=fadeIn&descAlign=center&descAlignY=70&color=a6b1e1&height=150&section=header&v=3" alt="Banner de boas-vindas Lofi" width="100%"/>
 </p>
 
 ### Olá, eu sou o Josué Feitosa! 👋
@@ -40,8 +40,8 @@
 
 ## 📫 Entre em Contato
 
-<div> 
-  <a href="https://www.linkedin.com/in/josuefeitosadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://www.linkedin.com/in/josuefeitosadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:josuehsfeitosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/josuehsfeitosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
