@@ -1,4 +1,4 @@
-### Olá! Eu sou o Josué Feitosa1 👋
+### Olá! Eu sou o Josué Feitosa👋
 
 - 🔭 I’m currently do not working with Front-End,but very want  poder trabalhar na área um dia. 
 - 🌱 I’m currently learning React, Typescript, Node.js, Javascript, HTML e CSS.
