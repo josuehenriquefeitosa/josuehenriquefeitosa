@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=a6b1e1&height=150&section=header&text=Josu%C3%A9%20Feitosa&fontSize=50&fontColor=283655&animation=fadeIn&desc=Desenvolvedor%20Web&descAlign=center&descSize=20&descAlignY=70&descColor=fff" alt="Banner de boas-vindas Lofi" width="100%"/>
+</p>
+
 ### Olá, eu sou o Josué Feitosa! 👋
 
 <p align="left">
@@ -6,15 +10,18 @@
 
 - 🔭 Atualmente, busco minha primeira oportunidade profissional como **Desenvolvedor Frontend**.
 - 🌱 Estou sempre aprimorando minhas habilidades em **React, TypeScript, Node.js** e todo o ecossistema JavaScript.
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pela <strong>Universidade Cruzeiro do Sul</strong>. - 😄 Pronomes: Ele/Dele
+- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pela <strong>Universidade Cruzeiro do Sul</strong>.
+- 😄 Pronomes: Ele/Dele
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Tecnologias%20e%20Ferramentas&fontSize=40&fontColor=fff&animation=fadeIn" alt="Banner da seção de tecnologias" width="100%"/>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,postgres,mongodb,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,postgres,mongodb,figma,git,tailwindcss" />
   </a>
 </p>
 
@@ -26,7 +33,7 @@
   <a href="https://github.com/josuehenriquefeitosa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuehenriquefeitosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehenriquefeitosa&layout=compact&langs_count=7&theme=dark"/>
-    </a>
+  </a>
 </div>
 
 ---
