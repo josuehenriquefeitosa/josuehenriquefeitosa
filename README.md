@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=a6b1e1&height=150&section=header&text=Josu%C3%A9%20Feitosa&fontSize=50&fontColor=283655&animation=fadeIn&desc=Desenvolvedor%20Web&descAlign=center&descSize=20&descAlignY=70&descColor=fff" alt="Banner de boas-vindas Lofi" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=a6b1e1&height=150&section=header&text=Josu%C3%A9%20Feitosa&fontSize=50&fontColor=283655&animation=fadeIn&desc=Desenvolvedor%20Web&descAlign=center&descSize=20&descAlignY=70&descColor=fff&v=2" alt="Banner de boas-vindas Lofi" width="100%"/>
 </p>
 
 ### Olá, eu sou o Josué Feitosa! 👋
